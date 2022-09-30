@@ -1,0 +1,23 @@
+{
+  "name": "template-spreadsheet-baconjs",
+  "version": "1.0.0",
+  "description": "Um template básico que pode ser utilizado para a atividade em laboratório que consiste em construir um spreadsheet remoto.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloszimm/template-spreadsheet-baconjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carloszimm/template-spreadsheet-baconjs/issues"
+  },
+  "homepage": "https://github.com/carloszimm/template-spreadsheet-baconjs#readme",
+  "dependencies": {
+    "baconjs": "^3.0.17",
+    "express": "^4.18.1"
+  }
+}
